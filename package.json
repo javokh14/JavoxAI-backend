@@ -1,0 +1,15 @@
+{
+  "name": "javox-ai-backend",
+  "version": "1.0.0",
+  "description": "Javox AI Multi-Model Free API Router Backend",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@libsql/client": "^0.14.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  }
+}
